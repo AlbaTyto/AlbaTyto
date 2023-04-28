@@ -2,7 +2,7 @@
 ## my name is Gustavo Peretti.
 ```
 
-🔭 I’m currently working as a Dairy Cattle Veterinarian:cow: and 
+🔭 I’m currently working as a Dairy Cattle Veterinarian 🐄 and 
 🌱 I recently learned FullStack Developer skills at #SoyHenry.
 Now I have tech skills in JavaScript, Express, Sequelize, React, Redux, and more.
 
