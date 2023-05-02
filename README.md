@@ -93,8 +93,7 @@ As I have always been a logical thinker, my friends and my brother recommended t
 </a>
 </span>	
 <span>
-<a href="mailto:gperettig@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  Gustavo Peretti-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<a href="mailto:gperettig@gmail.com"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
 </a>
 </span>
 	
