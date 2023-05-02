@@ -49,13 +49,9 @@ As I have always been a logical thinker, my friends and my brother recommended t
 </div>
 
 <br>
-<br>
-<br>
 
 -----
 
-<br>
-<br>
 
 ## <b> Let's Connect..!</b>
 <br>
