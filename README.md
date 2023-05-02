@@ -16,7 +16,6 @@ As I have always been a logical thinker, my friends and my brother recommended t
 ⚡ Fun fact: I like so much the barn owl that I used its scientific name for my github name Tyto alba -> **AlbaTyto 🦉**
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
 
 <p align="center">    
 
@@ -59,17 +58,14 @@ As I have always been a logical thinker, my friends and my brother recommended t
 <div align="center">
 
 <a href="https://github.com/AlbaTyto/">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlbaTyto&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AlbaTyto&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="495"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlbaTyto&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
 
 </a>
 	
 ### 🔝 Top Contributed Repo
-	<a href="https://github.com/AlbaTyto/">
-
 
 ![](https://github-contributor-stats.vercel.app/api?username=AlbaTyto&limit=5&theme=dark&combine_all_yearly_contributions=true)
-		</a>
 
 </div>
 
@@ -81,30 +77,28 @@ As I have always been a logical thinker, my friends and my brother recommended t
 <br>
 <div align='left'>
 
-<ul>
+<div>
 <img 
-<li>
+<span>
 <a href="https://www.linkedin.com/in/gustavo-peretti-gus/" target="_blank">
 <img
      src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="max-width: 100%;"/>
 </a>
-</li>
-<li>
+</span>
+<span>
 <a href="https://www.linkedin.com/in/gustavo-peretti-gus/" target="_blank">
 	
 ![AlbaTyto](https://img.shields.io/badge/-Mi%20cuenta%20de%20GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/AlbaTyto/)
 	
 </a>
-</li>		
-<br>
-
-<li>
+</span>	
+<span>
 <a href="mailto:gperettig@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  Gustavo Peretti-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
-</li>
+</span>
 	
-</ul>
+</div>
 
 </div>
 <br>
