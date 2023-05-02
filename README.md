@@ -75,7 +75,7 @@ As I have always been a logical thinker, my friends and my brother recommended t
 
 ## <b> Let's Connect..!</b>
 
-  <p align='center' display="flexbox">
+  <p align='center'>
     <a href="https://www.linkedin.com/in/gustavo-peretti-gus/" target="_blank"><img src="https://img.icons8.com/bubbles/60/000000/linkedin.png" style="max-width: 100%;"/></a>&nbsp;&nbsp;
     <a href="https://github.com/AlbaTyto"><img src="https://img.icons8.com/bubbles/60/000000/github.png" alt="GitHub"/></a>&nbsp;&nbsp;
     <a href="mailto:gperettig@gmail.com"><img src="https://img.icons8.com/bubbles/60/000000/gmail.png"></a>&nbsp;&nbsp;
