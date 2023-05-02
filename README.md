@@ -74,31 +74,12 @@ As I have always been a logical thinker, my friends and my brother recommended t
 -----
 
 ## <b> Let's Connect..!</b>
-<br>
-<div align='left'>
 
-<div>
-<img 
-<span>
-<a href="https://www.linkedin.com/in/gustavo-peretti-gus/" target="_blank">
-<img
-     src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="max-width: 100%;"/>
-</a>
-</span>
-<span>
-<a href="https://www.linkedin.com/in/gustavo-peretti-gus/" target="_blank">
-	
-![AlbaTyto](https://img.shields.io/badge/-Mi%20cuenta%20de%20GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/AlbaTyto/)
-	
-</a>
-</span>	
-<span>
-<a href="mailto:gperettig@gmail.com"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
-</a>
-</span>
-	
-</div>
+  <p align='center' display="flexbox">
+    <a href="https://www.linkedin.com/in/gustavo-peretti-gus/" target="_blank"><img src="https://img.icons8.com/bubbles/60/000000/linkedin.png" style="max-width: 100%;"/></a>&nbsp;&nbsp;
+    <a href="https://github.com/AlbaTyto"><img src="https://img.icons8.com/bubbles/60/000000/github.png" alt="GitHub"/></a>&nbsp;&nbsp;
+    <a href="mailto:gperettig@gmail.com"><img src="https://img.icons8.com/bubbles/60/000000/gmail.png"></a>&nbsp;&nbsp;
+  </p>
 
-</div>
 <br>
 
