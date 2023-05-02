@@ -58,10 +58,11 @@ As I have always been a logical thinker, my friends and my brother recommended t
 <div align='left'>
 
 <ul>
-
+<img 
 <li>
 <a href="https://www.linkedin.com/in/gustavo-peretti-gus/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Gustavo Peretti-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img
+     src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="max-width: 100%;"/>
 </a>
 </li>
 
